@@ -1,0 +1,17 @@
+[
+   {
+      "name": "caderno",
+      "price": 15,
+      "id": "5424d469-2961-41a5-829e-60b45dde2159"
+   },
+   {
+      "name": "caneta 4 cores",
+      "price": 9,
+      "id": "5debe735-c4e0-409d-9226-f16c02e2d7b4"
+   },
+   {
+      "name": "caneta 6 cores",
+      "price": 13,
+      "id": "b1f675d9-f358-4851-b981-adfb90530965"
+   }
+]
